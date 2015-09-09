@@ -1,4 +1,4 @@
-package com.biggor.agador.dropbox;
+package com.biggor.dropbox.test;
 
 import java.io.IOException;
 import java.io.InputStream;
